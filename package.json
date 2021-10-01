@@ -1,0 +1,23 @@
+{
+  "name": "furniture-add-to-cart-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js#readme",
+  "dependencies": {
+    "swiper": "^7.0.7"
+  }
+}
